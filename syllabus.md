@@ -53,30 +53,26 @@ Every second week, class will begin with an individual 30-minute in-class quiz. 
 
 | Date | Topics | Other notes |
 | --- | --- | --- |
-| Week 1 | Day 1. Course introduction, getting started in cocalc and the Linux/Unix command line | |
-| Week 2 | Day 2. Python basics, notebooks | |
-| | Day 3. Numpy, the numerical python package | |
+| Sep 7 (W) | Day 01. Course introduction, getting started in cocalc and the Linux/Unix command line | |
+| Sep 12 (M) | Day 02. Python basics, notebooks | |
+| Sep 14 (W)| Day 03. Numpy, the numerical python package | |
+| Sep 19 (M) | Day 04. Functions, conditionals, loops | |
+| Sep 21 (W) | Day 05. File Input and output in Python | |
+| Sep 26 (M) | Day 06. User input, modules, recursion, first look at plotting & fitting | |
+| Sep 28 (W) | Day 07. for loops and lists | |
+| Oct 03 (M) | Day 08. Plotting data: Matplotlib | |
+| Oct 05 (W) | Day 09. Numpy II | |
+| Oct 10 (M) | Thanksgiving holiday | |
+| Oct 12 (W) | Day 10. Containers I: Lists and Dictionaries | |
+| Oct 17 (M)| Day 11. Containers II: Tuples and SciPy | |
+| Oct 19 (W) | Day 12. Bits and pieces (numbers on computers, debugger, etc) | |
+| Oct 24, 26 | Mini-project 01.  | |
+| Oct 31, Nov 01 | Mini-project 02.  | |
+| Nov 07, 09 | Mini-project 03.  | |
+| Nov 14, 16 | Mini-project 04.  | |
+| Nov 21, 23 | Mini-project 05.  | |
 
-Week 3:
-	4. Functions, conditionals, loops
-	5. File Input and output in Python
-
-Week 4:
-	6. User input, modules, recursion, first look at plotting & fitting
-	7. for loops and lists
-
-Week 5:
-	8. Plotting data: Matplotlib
-	9. Numpy II
-
-Week 6:
-	- Thanksgiving Holiday
-	10. Containers I: Lists and Dictionaries
-
-
-Week 7:
-	11. Containers II: Tuples and SciPy
-	12. Bits and pieces (numbers on computers, debugger, etc)
+	
 
 Weeks 8 – 12, Projects.
 These classes will focus on mini-projects, one per week. Each project will consist of writing code to answer a question or solve a problem. Each week will bring a new project that will leverage the knowledge learned so far. Some new concepts will be introduced as necessary.
