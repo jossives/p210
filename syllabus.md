@@ -66,25 +66,13 @@ Every second week, class will begin with an individual 30-minute in-class quiz. 
 | Oct 12 (W) | Day 10. Containers I: Lists and Dictionaries | |
 | Oct 17 (M)| Day 11. Containers II: Tuples and SciPy | |
 | Oct 19 (W) | Day 12. Bits and pieces (numbers on computers, debugger, etc) | |
-| Oct 24, 26 | Mini-project 01.  | |
-| Oct 31, Nov 01 | Mini-project 02.  | |
-| Nov 07, 09 | Mini-project 03.  | |
-| Nov 14, 16 | Mini-project 04.  | |
-| Nov 21, 23 | Mini-project 05.  | |
-
-	
-
-Weeks 8 – 12, Projects.
-These classes will focus on mini-projects, one per week. Each project will consist of writing code to answer a question or solve a problem. Each week will bring a new project that will leverage the knowledge learned so far. Some new concepts will be introduced as necessary.
-
-Project		Class time	Due Date
-Project 1	Oct 25 & 27	Nov 1, 9 am
-Project 2	Nov 1 & 3	Nov 8, 9 am
-Project 3	Nov 8 & 15	Nov 17, 9 am (November 10-12 is midterm break)
-Project 4	Nov 17 & 22	Nov 24, 9 am
-Project 5	Nov 24 & 29	Dec 1, 9 am
-
-Special topics: Dec 1, Dec 6
+| Oct 24, 26 | Mini-project 01.  | Due Oct 31, 9am |
+| Oct 31, Nov 01 | Mini-project 02.  | Due Nov 14, 9am|
+| Nov 07, 09 | Reading break  | |
+| Nov 14, 16 | Mini-project 03.  | Due Nov 21, 9am |
+| Nov 21, 23 | Mini-project 04.  | Due Nov 28, 9am|
+| Nov 28, 30 | Mini-project 05.  | Due Dec 05, 9am|
+| Dec 05, 07 | Special Topics  | |
 
 In class quizzes will take place on:
 Sept 22, Oct 6, Oct 20 , Nov 3, Nov 17, and Dec 1.
