@@ -33,29 +33,29 @@ Please attend the section you are registered in. The division on the timetable  
 
 ## Class format: 
 
-We spend the first seven weeks of the course engaging in a regular cycle of pre-class activities, in-class group activities and individual lab work. We then 
+* **Skill-building class periods (the first seven weeks):** We will the first seven weeks building up your computation skills in a regular cycle of pre-class activities, in-class group activities and individual lab work. 
+* **Mini-projects (the final five weeks):** We will then move onto using class time in the final five weeks to work on five weekly mini-projects.
 
-The course 
-is split roughly into two halves, where we will focus 
-For the first ~six weeks of the course:
-We will provide reading material which you should read before coming to class. Each reading assignment will have an associated reading quiz
+### Skill-building class periods (the first seven weeks)
 
-Our class time will include: a short recap of the reading material, a mix of whole-class and small-group activities, followed by individual lab work (during which you are encouraged to talk to the people around you.
+During these first seven weeks, the class period (lecture + lab) will start with a lecture portion consisting of a brief review of the reading material and a mix of whole-class and small-group activities. This will be followed by time to work on your assignment for that class period. These are individually submitted, but you are welcome to and encouraged to work with those around you. Each assignment will be due by 9 am, the morning of the following class, and will be auto-collected through cocalc.  
 
-Each session will include an assignment, which you will have some time to complete in class. The assignment will be due by 9 am, the morning of the following class.  
+### Five mini-projects (the final five weeks)
 
-For the next 5 weeks, we will have weekly projects, with two scheduled class periods to work on each.
+Each of the five weekly mini-projects will consist of writing code to answer a question or solve a problem and working on these mini-projects will be the main thing you are doing during class time. Each mini-project will leverage the knowledge learned so far, but new concepts will also be introduced as necessary.
 
-Once every second week, class will begin with an individual 30 minute in-class quiz.  These will emphasize material in the most recent assignments/projects,  but because the course material builds on previous work, these assignments will draw on all of the course material seen to date.
+### Fortnightly quizzes
 
-Tentative Schedule:
+Every second week, class will begin with an individual 30-minute in-class quiz. These will emphasize material from the most recent assignments/projects, but will necessarily involve all course content up to that point because of the way that the content builds on itself.
 
-Week 1:
-	 1. Course introduction, getting started in cocalc and the Linux/Unix command line
 
-Week 2:
-	2. Python basics, notebooks
-	3. Numpy, the numerical python package
+## Tentative Schedule
+
+| Date | Topics | Other notes |
+| --- | --- | --- |
+| Week 1 | Day 1. Course introduction, getting started in cocalc and the Linux/Unix command line | |
+| Week 2 | Day 2. Python basics, notebooks | |
+| | Day 3. Numpy, the numerical python package | |
 
 Week 3:
 	4. Functions, conditionals, loops
