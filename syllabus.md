@@ -57,22 +57,22 @@ Every second week, class will begin with an individual 30-minute in-class quiz. 
 | Sep 12 (M) | Day 02. Python basics, notebooks | |
 | Sep 14 (W)| Day 03. Numpy, the numerical python package | |
 | Sep 19 (M) | Day 04. Functions, conditionals, loops | |
-| Sep 21 (W) | Day 05. File Input and output in Python | |
+| Sep 21 (W) | Day 05. File Input and output in Python | Quiz 01 (Sep 19)|
 | Sep 26 (M) | Day 06. User input, modules, recursion, first look at plotting & fitting | |
 | Sep 28 (W) | Day 07. for loops and lists | |
 | Oct 03 (M) | Day 08. Plotting data: Matplotlib | |
-| Oct 05 (W) | Day 09. Numpy II | |
+| Oct 05 (W) | Day 09. Numpy II | Quiz 02 (Oct 05) |
 | Oct 10 (M) | Thanksgiving holiday | |
 | Oct 12 (W) | Day 10. Containers I: Lists and Dictionaries | |
 | Oct 17 (M)| Day 11. Containers II: Tuples and SciPy | |
-| Oct 19 (W) | Day 12. Bits and pieces (numbers on computers, debugger, etc) | |
-| Oct 24, 26 | Mini-project 01.  | Due Oct 31, 9am |
-| Oct 31, Nov 01 | Mini-project 02.  | Due Nov 14, 9am|
-| Nov 07, 09 | Reading break  | |
-| Nov 14, 16 | Mini-project 03.  | Due Nov 21, 9am |
-| Nov 21, 23 | Mini-project 04.  | Due Nov 28, 9am|
-| Nov 28, 30 | Mini-project 05.  | Due Dec 05, 9am|
-| Dec 05, 07 | Special Topics  | |
+| Oct 19 (W) | Day 12. Bits and pieces (numbers on computers, debugger, etc) | Quiz 03 (Oct 19) |
+| Oct 24 (M), Oct 26 (W) | Mini-project 01 (Due Oct 31, 9am) |  |
+| Oct 31 (M), Nov 02 (W) | Mini-project 02 (Due Nov 14, 9am) | Quiz 04 (Nov 02) |
+| Nov 07 (M), Nov 09 (W) | Reading break  | |
+| Nov 14 (M), Nov 16 (W) | Mini-project 03 (Due Nov 21, 9am)  |  |
+| Nov 21 (M), Nov 23 (W) | Mini-project 04 (Due Nov 28, 9am)  |  |
+| Nov 28 (M), Nov 30 (W) | Mini-project 05 (Due Dec 05, 9am)  | Quiz 05 (Nov 30) |
+| Dec 05 (M), Dec 07 (W) | Special Topics  | |
 
 In class quizzes will take place on:
 Sept 22, Oct 6, Oct 20 , Nov 3, Nov 17, and Dec 1.
