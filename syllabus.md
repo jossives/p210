@@ -33,7 +33,8 @@ Please attend the section you are registered in. The division on the timetable  
 
 ## Class format: 
 
-* **Skill-building class periods (the first seven weeks):** We will the first seven weeks building up your computation skills in a regular cycle of pre-class activities, in-class group activities and individual lab work. 
+* **Skill-building class 
+s (the first seven weeks):** We will the first seven weeks building up your computation skills in a regular cycle of pre-class activities, in-class group activities and individual lab work. 
 * **Mini-projects (the final five weeks):** We will then move onto using class time in the final five weeks to work on five weekly mini-projects.
 
 ### Skill-building class periods (the first seven weeks)
@@ -49,7 +50,7 @@ Each of the five weekly mini-projects will consist of writing code to answer a q
 Every second week, class will begin with an individual 30-minute in-class quiz. These will emphasize material from the most recent assignments/projects, but will necessarily involve all course content up to that point because of the way that the content builds on itself.
 
 
-## Tentative Schedule
+## Tentative schedule
 
 | Date | Topics | Other notes |
 | --- | --- | --- |
@@ -65,80 +66,61 @@ Every second week, class will begin with an individual 30-minute in-class quiz. 
 | Oct 10 (M) | Thanksgiving holiday | |
 | Oct 12 (W) | Day 10. Containers I: Lists and Dictionaries | |
 | Oct 17 (M)| Day 11. Containers II: Tuples and SciPy | |
-| Oct 19 (W) | Day 12. Bits and pieces (numbers on computers, debugger, etc) | Quiz 03 (Oct 19) |
-| Oct 24 (M), Oct 26 (W) | Mini-project 01 (Due Oct 31, 9am) |  |
-| Oct 31 (M), Nov 02 (W) | Mini-project 02 (Due Nov 14, 9am) | Quiz 04 (Nov 02) |
+| Oct 19 (W) | Day 12. Bits and pieces (numbers on computers, debugger, etc) |  |
+| Oct 24 (M), Oct 26 (W) | Mini-project 01 (Due Oct 31, 9am) | Quiz 03 (Oct 26) |
+| Oct 31 (M), Nov 02 (W) | Mini-project 02 (Due Nov 14, 9am) | |
 | Nov 07 (M), Nov 09 (W) | Reading break  | |
-| Nov 14 (M), Nov 16 (W) | Mini-project 03 (Due Nov 21, 9am)  |  |
+| Nov 14 (M), Nov 16 (W) | Mini-project 03 (Due Nov 21, 9am)  |  Quiz 04 (Nov 16) |
 | Nov 21 (M), Nov 23 (W) | Mini-project 04 (Due Nov 28, 9am)  |  |
 | Nov 28 (M), Nov 30 (W) | Mini-project 05 (Due Dec 05, 9am)  | Quiz 05 (Nov 30) |
 | Dec 05 (M), Dec 07 (W) | Special Topics  | |
 
-In class quizzes will take place on:
-Sept 22, Oct 6, Oct 20 , Nov 3, Nov 17, and Dec 1.
-
-Marking:
+## Grading scheme
 
 Part A: 65%
-	Reading quizzes: 5%
-	in-class group activities: 10%
-	~12 assignments: 20 %
-	5 projects: 30 %
+
+* Reading quizzes: 5%
+* In-class group activities: 10%
+* Assignments (~12): 20 %
+* Mini-projects (5): 30 %
 
 Part B: 35%
-	bi-weekly individual in-class quizzes: 35%.
+
+* In-class quizzes (5): 35%.
 
 Notes:
-- You must pass both part A and part B to pass the course. If you receive a score below 50% on one part, the weighting of the other part will drop to 0, resulting in a failing grade.
 
-- The assignments and quizzes will not be equally weighted as their lengths and complexities will vary.
+* You must pass both part A and part B to pass the course. If you receive a score below 50% on one part, the weighting of the other part will drop to 0, resulting in a failing grade.
+* The assignments and quizzes will not be equally weighted as their lengths and complexities will vary.
+* The marking of your work will be done by a combination of: 1)  automated tools 2) TA-power and 3) peer evaluation. Mistakes will happen. If you think you find an error in the marking or some other blatant injustice, let me know by email, within 1 week of receiving the marked work.
+* You will be required to evaluate some of the work of your classmates.
 
-The marking of your work will be done by a combination of: 1)  automated tools 2) TA-power and 3) peer evaluation. Mistakes will happen. If you think you find an error in the marking or some other blatant injustice, let me know by email, within 1 week of receiving the marked work.
+Grading scheme flexibility
 
-You will be required to evaluate some of the work of your classmates.
+* Clicker questions will not count for marks
+* We will automatically drop your three lowest group activity scores.
+* We will drop your lowest quiz score.
+* For all other course content, you can request one-week extensions for up to 20% of that type of coursework (mini-projects, assignments, reading quizzes, etc) without needing to provide documentation or needing to apply for academic concessions.
+* For academic concessions beyond any of situations described above, appropriate documentation or correspondence from an advisor will be required. Please note that academic concessions may be granted for events falling under the categories of conflicting responsibilities, medical circumstances, or those that require compassionate grounds. Please see the UBC calendar entry on Academic Concession for further details.
+
+If you do miss a class:
+* Consult the appropriate resources on Canvas. We will post lecture slides and notes for each class period there.
+* Attend office hours, which will always have the option to attend remotely via Zoom. 
+* Interact with the teaching team and your peers on Piazza
 
 
+## COVID safety in the classroom
 
+*This section will be updated before the start of the term to best reflect the current UBC policies.*
 
-COVID SAFETY IN THE CLASSROOM
-Masks: Masks are required for all indoor classes, as per the BC Public Health Officer orders. For our in-person meetings in this class, it is important that all of us feel as comfortable as possible engaging in class activities while sharing an indoor space.  For the purposes of this order, the term “masks” refers to medical and non-medical masks that cover our noses and mouths.  Masks are a primary tool to make it harder for Covid-19 to find a new host.  You will need to wear a medical or non-medical mask for the duration of our class meetings, for your own protection, and the safety and comfort of everyone else in the class.  You may be asked to remove your mask briefly for an ID check for an exam, but otherwise, your mask should cover your nose and mouth. Please do not eat in class. You are welcome to step outside for a food/drink break during the lab time. Please note that there are some people who cannot wear a mask. These individuals are equally welcome in our class.
-Vaccination: If you have not yet had a chance to get vaccinated against Covid-19, vaccines are available to you, free, and on campus. The higher the rate of vaccination in our community overall, the lower the chance of spreading this virus.  You are an important part of the UBC community. Please arrange to get vaccinated if you have not already done so.
-Seating in class: To reduce the risk of Covid transmission, please sit in a consistent area of the classroom each day.  This will minimize your contacts and will still allow for the pedagogical methods planned for this class to help your learning.  Our group work will be done in groups of 3. Please sit with six at each table.
-Your personal health
-If you’re sick, it’s important that you stay home – no matter what you think you may be sick with (e.g., cold, flu, other). 
-●	A daily self-health assessment is required before attending campus. Every day, before coming to class, complete the self-assessment for Covid symptoms using this tool: https://bc.thrive.health/covid19/en
-●	Do not come to class if you have Covid symptoms, have recently tested positive for Covid, or are required to quarantine. You can check this website to find out if you should self-isolate or self-monitor: http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation#Who.
-●	Your precautions will help reduce risk and keep everyone safer.  In this class, the marking scheme is intended to provide flexibility so that you can prioritize your health and still be able to succeed.
+## Academic integrity and Collaboration
 
-	Group work: we will automatically drop the two lowest scores.
-
-Quizzes:  The lowest quiz score will be dropped automatically. If you are sick on the day of a quiz, it would be helpful if you could let me know by email that you will not be attending.
-
-	Clicker questions: do not count for marks
-
-Assignments & projects: Assignments and projects will be digitally collected at the due date/time in whatever state of completion they are in. If you are sick you are expected to catch up on these, please be in touch by email to request an extension.
-
- Reading quizzes: will close at the due date/time.  If you are sick, please be in touch by email to request an extension.
-
-In general, extensions will be granted for illness without documentation for up to a week’s work. If you find yourself unable to come to class for more time than this, please let me know, or contact Science Advising.
-
-If you do miss class because of illness:
-- Consult the class resources on Canvas. We will post lecture slides and readings notes for each class there.
-- Come to office hours (they’ll be online so you can join from home).
-- ask for help on Piazza
-
-If I (the instructor) am sick:
-One of the following will happen:
-- If I am well enough to teach, we may have an online session or two. If that happens, you will receive an email telling you how to join the class. This might happen in the usual classroom with the TAs there for regular lab support.
-- One of the TAs may lead the class.
-- We may cancel a class or two.
-
-Academic integrity and Collaboration:  The academic enterprise is founded on honesty, civility, and integrity. As members of this enterprise, all students are expected to know, understand, and follow the codes of conduct regarding academic integrity. At the most basic level, this means submitting only original work done by you and acknowledging all sources of information or ideas and attributing them to others as required. This also means you should not cheat, copy, or mislead others about what is your work. Violations of academic integrity (i.e., misconduct) lead to the breakdown of the academic enterprise, and therefore serious consequences arise and harsh sanctions are imposed. For example, incidences of plagiarism or cheating may result in a mark of zero on the assignment or exam and more serious consequences may apply if the matter is referred to the President’s Advisory Committee on Student Discipline. Careful records are kept in order to monitor and prevent recurrences.
+The academic enterprise is founded on honesty, civility, and integrity. As members of this enterprise, all students are expected to know, understand, and follow the codes of conduct regarding academic integrity. At the most basic level, this means submitting only original work done by you and acknowledging all sources of information or ideas and attributing them to others as required. This also means you should not cheat, copy, or mislead others about what is *your* work. Violations of academic integrity (i.e., misconduct) lead to the breakdown of the academic enterprise, and therefore serious consequences arise and harsh sanctions are imposed. For example, incidences of plagiarism or cheating may result in a mark of zero on the assignment or qyuz and more serious consequences may apply if the matter is referred to the President’s Advisory Committee on Student Discipline. Careful records are kept in order to monitor and prevent recurrences.
 
 A more detailed description of academic integrity, including the University’s policies and procedures, may be found in theAcademic Calendar at
 http://calendar.ubc.ca/vancouver/index.cfm?tree=3,54,111,0.
 
-Specifically for PHYS 210: You are encouraged to talk to each other, to us, and to use resources like books and the internet to learn from. Some of our assignments will be group activities, others will be individual. For group activities, we expect you to fully collaborate with the other students in your group. You should ensure you understand the group’s work. For individual assignments and projects, it is ok to ask friends, classmates, or google for ideas on how to attack a problem (what function did you use to generate the random numbers?) , or to help debug something that’s not working as you expect. It is not ok to gather with a friend or two and work through to produce a common version. You need to ensure that the work you turn in reflects your knowledge of the course material.
+**Specifically for PHYS 210:** You are encouraged to talk to each other, to the teaching team, and to use resources like books and the internet to learn from. Some of our assignments will be group activities, others will be individual. For group activities, we expect you to be a full participant in your group's collaboration and you should ensure you understand the group’s work fully. For individual assignments and projects, it is quite reasonable to ask friends, classmates, or google for ideas on how to attack a problem ("What function did you use to generate the random numbers?") or for help in debuggin something that’s not working as you expect. However, it is not acceptable to gather with a friend or two to work through an assignment to produce a common version. You need to ensure that the work you turn in reflects your knowledge and your application of that knowlege.
 
 It is ok to use a line or two of code from something you find on the internet (with attribution). It is not ok to use large blocks of code from anywhere or anybody.
 
