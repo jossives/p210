@@ -33,8 +33,7 @@ Please attend the section you are registered in. The division on the timetable  
 
 ## Class format: 
 
-* **Skill-building class 
-s (the first seven weeks):** We will the first seven weeks building up your computation skills in a regular cycle of pre-class activities, in-class group activities and individual lab work. 
+* **Skill-building classes (the first seven weeks):** We will the first seven weeks building up your computation skills in a regular cycle of pre-class activities, in-class group activities and individual lab work. 
 * **Mini-projects (the final five weeks):** We will then move onto using class time in the final five weeks to work on five weekly mini-projects.
 
 ### Skill-building class periods (the first seven weeks)
