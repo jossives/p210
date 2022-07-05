@@ -12,42 +12,41 @@
 | Lecture | Mon/Wed 12:30-13:00 | Mon/Wed 15:30-16:00
 | Lab | Mon/Wed 13:00-14:50 | Mon/Wed 16:00-17:50 |
 
-Please attend the section you are registered in. The division on the timetable  between the  Lecture and Lab sections is mostly for bookkeeping. See class format, below.
+Please attend the section in which you are registered. The division on the timetable between the  Lecture and Lab sections is mostly for bookkeeping. See class format, below.
 
 **Pre-reqs:** One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001.
 
 **Co-reqs:** One of MATH 152, MATH 221, MATH 223
 
-**Office Hours:**	 to be announced
+**Office Hours:**	To be announced
 
-**Textbook:** There is no required textbook. Pre-reading notes will be provided. The internet is awash with relevant resources, though it is not always easy to locate what’s relevant and useful. There is a book available that uses a similar approach and is recommended if you want another source: A Student’s Guide to Python for Physical Modeling. by Kinder and Nelson. There are three versions: “the original”, an “Updated Edition” and the latest “Second Edition.” The newest (2nd edition) is probably the best choice.
+**Textbook:** There is no required textbook. Pre-reading notes will be provided. There are plenty of resources on the internet, but it is not always easy to locate what’s relevant and useful. There is a book available that uses a similar approach and is recommended if you want another source: A Student’s Guide to Python for Physical Modeling. by Kinder and Nelson. There are three versions: “the original”, an “Updated Edition” and the latest “Second Edition.” The newest (2nd edition) is probably the best choice.
 
 **Online Tools:**
 
-- **Cocalc:**  Most of our work will be done on an online computing platform called cocalc. You will need to set up an account at cocalc.com, using an email address. Please see additional note below. We recommend that you pay the Cocalc course fee (US$14). Paying this fee allows your work to run on faster servers and will generally provide a better experience.
-- **Canvas:** We will make some use of Canvas for distributing materials, administering some quizzes, course announcements etc.
+- **Cocalc:**  Most of our work will be done on an online computing platform called cocalc. You will need to set up an account at cocalc.com, using an email address. Please see the additional note below. It is possible to use a free account to complete the course, but we recommended improving your overall experience with the palyform by paying the Cocalc course fee (US$14), which allows your work to run on faster servers and will generally provide a better experience.
+- **Canvas:** We will make some use of Canvas for course announcements, distributing materials, administering some quizzes, etc.
 - **iClickerCloud:** In-class polling.
 - **Piazza:** Online discussion forums.
 
-**Your private information and Cocalc:** Cocalc is stored on servers outside Canada. When you access this site, you are transferred to these servers. UBC cannot guarantee security of your private information on servers outside of Canada. Please exercise caution whenever using personal information. You may wish to use a pseudonym to protect your privacy if you have concerns. Please feel free to contact us at UBC (LT.hub@ubc.ca) or CoCalc's support team (help@sagemath.com) if you have any questions about your privacy. If for privacy reasons you choose to use a different email address, you will need to tell us what that address is so that your work can be attributed to you.
+**Your private information and Cocalc:** Cocalc is stored on servers outside Canada. When you access this site, you are transferred to these servers. UBC cannot guarantee security of your private information on servers outside of Canada. Please exercise caution regarding the use of your personal information in this context. If you have concerns, you may wish to use a pseudonym to protect your privacy. Please feel free to contact us at UBC (LT.hub@ubc.ca) or CoCalc's support team (help@sagemath.com) if you have any questions about your privacy. If you an email address that we cannot associate with your student profile, please tell us what that address is so that your work can be attributed to you correctly.
 
 ## Class format: 
 
-* **Skill-building classes (the first seven weeks):** We will the first seven weeks building up your computation skills in a regular cycle of pre-class activities, in-class group activities and individual lab work. 
+* **Skill-building classes (the first seven weeks):** We will spend the first seven weeks during lecture/lab building up your computation skills in a regular cycle of pre-class activities, in-class group activities and individual lab work. 
 * **Mini-projects (the final five weeks):** We will then move onto using class time in the final five weeks to work on five weekly mini-projects.
 
 ### Skill-building class periods (the first seven weeks)
 
-During these first seven weeks, the class period (lecture + lab) will start with a lecture portion consisting of a brief review of the reading material and a mix of whole-class and small-group activities. This will be followed by time to work on your assignment for that class period. These are individually submitted, but you are welcome to and encouraged to work with those around you. Each assignment will be due by 9 am, the morning of the following class, and will be auto-collected through cocalc.  
+During these first seven weeks, the class period (lecture + lab) will start with a lecture portion consisting of a brief review of the reading material and a mix of whole-class and small-group activities. This will be followed by time to work on your assignment for that class period. These are individually submitted, but you are welcome to and encouraged to work with those around you. Each assignment will be due by 9 am the morning of the following class, and will be auto-collected through cocalc.  
 
-### Five mini-projects (the final five weeks)
+### Five mini-projects (the final five+ weeks)
 
-Each of the five weekly mini-projects will consist of writing code to answer a question or solve a problem and working on these mini-projects will be the main thing you are doing during class time. Each mini-project will leverage the knowledge learned so far, but new concepts will also be introduced as necessary.
+Each of the five weekly mini-projects will consist of writing code to answer a question or solve a problem and working on these mini-projects will be the main thing you are doing during class time. Each mini-project will leverage the knowledge learned so far, but new concepts will also be introduced as necessary. You will typically have one week to complete a mini-project.
 
 ### Fortnightly quizzes
 
 Every second week, class will begin with an individual 30-minute in-class quiz. These will emphasize material from the most recent assignments/projects, but will necessarily involve all course content up to that point because of the way that the content builds on itself.
-
 
 ## Tentative schedule
 
@@ -55,7 +54,7 @@ Every second week, class will begin with an individual 30-minute in-class quiz. 
 | --- | --- | --- |
 | Sep 7 (W) | Day 01. Course introduction, getting started in cocalc and the Linux/Unix command line | |
 | Sep 12 (M) | Day 02. Python basics, notebooks | |
-| Sep 14 (W)| Day 03. Numpy, the numerical python package | |
+| Sep 14 (W) | Day 03. Numpy, the numerical python package | |
 | Sep 19 (M) | Day 04. Functions, conditionals, loops | |
 | Sep 21 (W) | Day 05. File Input and output in Python | Quiz 01 (Sep 19)|
 | Sep 26 (M) | Day 06. User input, modules, recursion, first look at plotting & fitting | |
@@ -64,7 +63,7 @@ Every second week, class will begin with an individual 30-minute in-class quiz. 
 | Oct 05 (W) | Day 09. Numpy II | Quiz 02 (Oct 05) |
 | Oct 10 (M) | Thanksgiving holiday | |
 | Oct 12 (W) | Day 10. Containers I: Lists and Dictionaries | |
-| Oct 17 (M)| Day 11. Containers II: Tuples and SciPy | |
+| Oct 17 (M) | Day 11. Containers II: Tuples and SciPy | |
 | Oct 19 (W) | Day 12. Bits and pieces (numbers on computers, debugger, etc) |  |
 | Oct 24 (M), Oct 26 (W) | Mini-project 01 (Due Oct 31, 9am) | Quiz 03 (Oct 26) |
 | Oct 31 (M), Nov 02 (W) | Mini-project 02 (Due Nov 14, 9am) | |
