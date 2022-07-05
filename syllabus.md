@@ -46,7 +46,7 @@ Each of the five weekly mini-projects will consist of writing code to answer a q
 
 ### Fortnightly quizzes
 
-Every second week, class will begin with an individual 30-minute in-class quiz. These will emphasize material from the most recent assignments/projects, but will necessarily involve all course content up to that point because of the way that the content builds on itself.
+Every second week, class will begin with an individual 30-minute in-class quiz. These will emphasize material from the most recent assignments/projects, but will necessarily involve all course content up to that point because content in this course is always building upon itself.
 
 ## Tentative schedule
 
@@ -90,7 +90,7 @@ Notes:
 
 * You must pass both part A and part B to pass the course. If you receive a score below 50% on one part, the weighting of the other part will drop to 0, resulting in a failing grade.
 * The assignments and quizzes will not be equally weighted as their lengths and complexities will vary.
-* The marking of your work will be done by a combination of: 1)  automated tools 2) TA-power and 3) peer evaluation. Mistakes will happen. If you think you find an error in the marking or some other blatant injustice, let me know by email, within 1 week of receiving the marked work.
+* The marking of your work will be done by a combination of: 1) automated tools 2) TA-power and 3) peer evaluation. If you have any concerns regarding any of your marked work, including grading mistakes on our part, please let me know by email within one week of receiving the marked work.
 * You will be required to evaluate some of the work of your classmates.
 
 Grading scheme flexibility
@@ -102,10 +102,10 @@ Grading scheme flexibility
 * For academic concessions beyond any of situations described above, appropriate documentation or correspondence from an advisor will be required. Please note that academic concessions may be granted for events falling under the categories of conflicting responsibilities, medical circumstances, or those that require compassionate grounds. Please see the UBC calendar entry on Academic Concession for further details.
 
 If you do miss a class:
-* Consult the appropriate resources on Canvas. We will post lecture slides and notes for each class period there.
+
+* Consult the appropriate resources on Canvas and cocalc. We will post lecture slides and notes for each class period on Canvas.
 * Attend office hours, which will always have the option to attend remotely via Zoom. 
 * Interact with the teaching team and your peers on Piazza
-
 
 ## COVID safety in the classroom
 
@@ -118,11 +118,11 @@ The academic enterprise is founded on honesty, civility, and integrity. As membe
 A more detailed description of academic integrity, including the University’s policies and procedures, may be found in theAcademic Calendar at
 http://calendar.ubc.ca/vancouver/index.cfm?tree=3,54,111,0.
 
-**Specifically for PHYS 210:** You are encouraged to talk to each other, to the teaching team, and to use resources like books and the internet to learn from. Some of our assignments will be group activities, others will be individual. For group activities, we expect you to be a full participant in your group's collaboration and you should ensure you understand the group’s work fully. For individual assignments and projects, it is quite reasonable to ask friends, classmates, or google for ideas on how to attack a problem ("What function did you use to generate the random numbers?") or for help in debuggin something that’s not working as you expect. However, it is not acceptable to gather with a friend or two to work through an assignment to produce a common version. You need to ensure that the work you turn in reflects your knowledge and your application of that knowlege.
+**Specifically for PHYS 210:** You are encouraged to talk to each other, to the teaching team, and to learn from resources such as books and the internet. For in-class group activities, we expect you to be a full participant in your group's collaboration and you should ensure you understand the group’s work fully. For individual assignments and projects, it is quite reasonable to ask friends, classmates, or use internet searches for ideas on how to attack a problem ("What function did you use to generate the random numbers?") or for help in debugging something that’s not working as you expect. However, it is not acceptable to gather with a friend or two to work through an assignment to produce a common version. You need to ensure that the work you turn in reflects your knowledge and your application of that knowledge.
 
-* It is ok to use a line or two of code from something you find on the internet (with attribution). It is not ok to use large blocks of code from anywhere or anybody.
-* For the quizzes, all work is strictly individual, you must not communicate with anybody else in these activities.
-* Thoroughly commenting your code to explain how things work, and where ideas came from, especially if you use code constructions you find on the internet or have suggested to you, helps you ensure that you learn from the process, and ensures that (moral) credit is given to the source of the ideas.
+* As long as you are providing attributions, it is perfectly reasonable to use a line or two of code from something you find on the internet. However, it is not acceptable to use large blocks of code that you did not write yourself.
+* For the in-class quizzes, all work is strictly individual. You must not communicate with anybody else during the in-class quizzes.
+* It is expected that you will provide through comments with your code, not only explaining how things work, but also providing appropriate attribution for code snippets or ideas that came from others. This commenting helps ensure that you learn from the process, and ensures that appropriate credit is given to the source of the ideas.
 
 ## University support & resources
 
@@ -130,4 +130,4 @@ UBC provides resources to support student learning and to maintain healthy lifes
 
 ## Acknowledgement
 
-This syllabus represents a revision and update of the 2022 Physics 210 syllabus, which was produced by Prof Carl Michal.
+This syllabus represents a revision and update of the 2021 Physics 210 syllabus, which was produced by Prof Carl Michal.
