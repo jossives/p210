@@ -66,7 +66,7 @@ Every second week, class will begin with an individual 30-minute in-class quiz. 
 | Oct 17 (M) | Day 11. Containers II: Tuples and SciPy | |
 | Oct 19 (W) | Day 12. Bits and pieces (numbers on computers, debugger, etc) |  |
 | Oct 24 (M), Oct 26 (W) | Mini-project 01 (Due Oct 31, 9am) | Quiz 03 (Oct 26) |
-| Oct 31 (M), Nov 02 (W) | Mini-project 02 (Due Nov 14, 9am) | |
+| Oct 31 (M), Nov 02 (W) | Mini-project 02 (Due Nov 07, 9am) | |
 | Nov 07 (M), Nov 14 (M), Nov 16 (W) |  Mini-project 03 (Due Nov 21, 9am)  | Quiz 04 (Nov 16), Reading break Nov 09-11 |
 | Nov 21 (M), Nov 23 (W)  | Mini-project 04 (Due Nov 28, 9am)  |   |
 | Nov 28 (M), Nov 30 (W) | Mini-project 05 (Due Dec 05, 9am)  | Quiz 05 (Nov 30) |
