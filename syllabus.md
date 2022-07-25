@@ -67,11 +67,10 @@ Every second week, class will begin with an individual 30-minute in-class quiz. 
 | Oct 19 (W) | Day 12. Bits and pieces (numbers on computers, debugger, etc) |  |
 | Oct 24 (M), Oct 26 (W) | Mini-project 01 (Due Oct 31, 9am) | Quiz 03 (Oct 26) |
 | Oct 31 (M), Nov 02 (W) | Mini-project 02 (Due Nov 14, 9am) | |
-| Nov 07 (M), Nov 09 (W) | Reading break  | |
-| Nov 14 (M), Nov 16 (W), Nov 21 (M)  | Mini-project 03 (Due Nov 23, 9am)  |  Quiz 04 (Nov 16) |
-| Nov 23 (W), Nov 28 (M) | Mini-project 04 (Due Nov 30, 9am)  |  |
-| Nov 30 (W), Dec 05 (M) | Mini-project 05 (Due Dec 07, 9am)  | Quiz 05 (Nov 30) |
-| Dec 07 (W) | Special Topics  | |
+| Nov 07 (M), Nov 14 (M), Nov 16 (W) |  Mini-project 03 (Due Nov 21, 9am)  | Quiz 04 (Nov 16), Reading break Nov 09-11 |
+| Nov 21 (M), Nov 23 (W)  | Mini-project 04 (Due Nov 28, 9am)  |   |
+| Nov 28 (M), Nov 30 (W) | Mini-project 05 (Due Dec 05, 9am)  | Quiz 05 (Nov 30) |
+| Dec 05 (M), Dec 07 (W) | Special Topics |  |
 
 ## Grading scheme
 
