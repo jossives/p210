@@ -46,7 +46,11 @@ Each of the five weekly mini-projects will consist of writing code to answer a q
 
 ### Fortnightly quizzes
 
-Every second week, class will begin with an individual 30-minute in-class quiz. These will emphasize material from the most recent assignments/projects, but will necessarily involve all course content up to that point because content in this course is always building upon itself.
+Approximately every second week, there will be an in-class quiz consisting of a 30-minute solo component and a 15-minute group component. The group component will be largely the same as the solo component and we include the group component to provide an additional opporunity to learn content alongside your peers and receive some immediate feedback on your thinking as it relates to the quiz content.
+
+* These will emphasize material from the most recent assignments/projects, but will necessarily involve all course content up to that point because content in this course is always building upon itself. 
+* Each quiz score will be calculated using a weighted average, with 75% coming from the solo component and 25% coming from the group component. If your solo component score is higher than your group component score on a quiz, we will replace your group component score with your solo component score as to not penalize you for the lower group score.
+*	Your overall quiz average will be calculated using your best 4 of 5 quiz scores. This allows you to miss one or perform poorly on a quiz without penalty. 
 
 ## Tentative schedule
 
@@ -55,19 +59,19 @@ Every second week, class will begin with an individual 30-minute in-class quiz. 
 | Sep 7 (W) | Day 01. Course introduction, getting started in cocalc and the Linux/Unix command line | |
 | Sep 12 (M) | Day 02. Python basics, notebooks | |
 | Sep 14 (W) | Day 03. Numpy, the numerical python package | |
-| Sep 19 (M) | Day 04. Functions, conditionals, loops | |
-| Sep 21 (W) | Day 05. File Input and output in Python | Quiz 01 (Sep 19)|
+| Sep 19 (M) | Day 04. Functions, conditionals, loops | Quiz 01 (Sep 19) |
+| Sep 21 (W) | Day 05. File Input and output in Python | |
 | Sep 26 (M) | Day 06. User input, modules, recursion, first look at plotting & fitting | |
 | Sep 28 (W) | Day 07. for loops and lists | |
-| Oct 03 (M) | Day 08. Plotting data: Matplotlib | |
-| Oct 05 (W) | Day 09. Numpy II | Quiz 02 (Oct 05) |
+| Oct 03 (M) | Day 08. Plotting data: Matplotlib | Quiz 02 (Oct 03) |
+| Oct 05 (W) | Day 09. Numpy II |  |
 | Oct 10 (M) | Thanksgiving holiday | |
 | Oct 12 (W) | Day 10. Containers I: Lists and Dictionaries | |
 | Oct 17 (M) | Day 11. Containers II: Tuples and SciPy | |
 | Oct 19 (W) | Day 12. Bits and pieces (numbers on computers, debugger, etc) |  |
-| Oct 24 (M), Oct 26 (W) | Mini-project 01 (Due Oct 31, 9am) | Quiz 03 (Oct 26) |
+| Oct 24 (M), Oct 26 (W) | Mini-project 01 (Due Oct 31, 9am) | Quiz 03 (Oct 24) |
 | Oct 31 (M), Nov 02 (W) | Mini-project 02 (Due Nov 07, 9am) | |
-| Nov 07 (M), Nov 14 (M), Nov 16 (W) |  Mini-project 03 (Due Nov 21, 9am)  | Quiz 04 (Nov 16), Reading break Nov 09-11 |
+| Nov 07 (M), Nov 14 (M), Nov 16 (W) |  Mini-project 03 (Due Nov 21, 9am)  | Quiz 04 (Nov 14), Reading break Nov 09-11 |
 | Nov 21 (M), Nov 23 (W)  | Mini-project 04 (Due Nov 28, 9am)  |   |
 | Nov 28 (M), Nov 30 (W) | Mini-project 05 (Due Dec 05, 9am)  | Quiz 05 (Nov 30) |
 | Dec 05 (M), Dec 07 (W) | Special Topics |  |
@@ -88,14 +92,13 @@ Part B: 35%
 Notes:
 
 * You must pass both part A and part B to pass the course. If you receive a score below 50% on one part, the weighting of the other part will drop to 0, resulting in a failing grade.
-* The assignments and quizzes will not be equally weighted as their lengths and complexities will vary.
 * The marking of your work will be done by a combination of: 1) automated tools 2) TA-power and 3) peer evaluation. If you have any concerns regarding any of your marked work, including grading mistakes on our part, please let me know by email within one week of receiving the marked work.
 * You will be required to evaluate some of the work of your classmates.
 
 Grading scheme flexibility
 
-* Clicker questions will not count for marks
-* We will automatically drop your three lowest group activity scores.
+* Clicker questions will not count for marks.
+* We will automatically drop your three lowest scores for in-class group activities.
 * We will drop your lowest quiz score.
 * For all other course content, you can request one-week extensions for up to 20% of that type of coursework (mini-projects, assignments, reading quizzes, etc) without needing to provide documentation or needing to apply for academic concessions.
 * For academic concessions beyond any of situations described above, appropriate documentation or correspondence from an advisor will be required. Please note that academic concessions may be granted for events falling under the categories of conflicting responsibilities, medical circumstances, or those that require compassionate grounds. Please see the UBC calendar entry on Academic Concession for further details.
