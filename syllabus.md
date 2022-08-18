@@ -1,8 +1,10 @@
 # PHYS 210 - Introduction to Computational Physics (Fall 2022)
  
-**Instructor:** Joss Ives (joss@phas.ubc.ca)
+**Instructor:** Joss Ives (joss at phas dot ubc dot ca)
 
-**TAs:**	
+**TAs:**	Dinel Anthony, Daniel Duque, Aaron Kraft, Ryan Quinn, Mercedes Thompson, 
+
+![image](https://user-images.githubusercontent.com/4399391/185456466-63e1d627-3146-40b3-9012-bfe911ebdc64.png)
 
 **Location:** 	Hebb B112
 
