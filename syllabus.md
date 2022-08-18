@@ -4,8 +4,6 @@
 
 **TAs:**	Dinel Anthony, Daniel Duque, Aaron Kraft, Ryan Quinn, Mercedes Thompson, 
 
-![image](https://user-images.githubusercontent.com/4399391/185456466-63e1d627-3146-40b3-9012-bfe911ebdc64.png)
-
 **Location:** 	Hebb B112
 
 **Schedule:**  	
