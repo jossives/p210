@@ -33,7 +33,7 @@ Please attend the section in which you are registered. The division on the timet
 
 ## Class format: 
 
-* **Skill-building classes (the first seven weeks):** We will spend the first seven weeks during lecture/lab building up your computation skills in a regular cycle of pre-class activities, in-class group activities and individual lab work. 
+* **Skill-building classes (the first seven weeks):** We will spend the first seven weeks during lecture/lab building up your computation skills in a regular cycle of pre-class preparation activities, in-class group-work (polling questions and worksheets) and individual lab work (assignments). 
 * **Mini-projects (the final five weeks):** We will then move onto using class time in the final five weeks to work on five weekly mini-projects.
 
 ### Skill-building class periods (the first seven weeks)
@@ -81,7 +81,7 @@ Approximately every second week, there will be an in-class quiz consisting of a 
 Part A: 65%
 
 * Reading quizzes: 5%
-* In-class group activities: 10%
+* In-class group-work (worksheets and peer assessments): 10%
 * Assignments (~12): 20 %
 * Mini-projects (5): 30 %
 
