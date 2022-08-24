@@ -123,7 +123,8 @@ http://calendar.ubc.ca/vancouver/index.cfm?tree=3,54,111,0.
 **Specifically for PHYS 210:** You are encouraged to talk to each other, to the teaching team, and to learn from resources such as books and the internet. For in-class group activities, we expect you to be a full participant in your group's collaboration and you should ensure you understand the group’s work fully. For individual assignments and projects, it is quite reasonable to ask friends, classmates, or use internet searches for ideas on how to attack a problem ("What function did you use to generate the random numbers?") or for help in debugging something that’s not working as you expect. However, it is not acceptable to gather with a friend or two to work through an assignment to produce a common version. You need to ensure that the work you turn in reflects your knowledge and your application of that knowledge.
 
 * As long as you are providing attributions, it is perfectly reasonable to use a line or two of code from something you find on the internet. However, it is not acceptable to use large blocks of code that you did not write yourself.
-* For the in-class quizzes, all work is strictly individual. You must not communicate with anybody else during the in-class quizzes.
+* For the solo portion of the in-class quizzes, all work is strictly individual. You must not communicate with anybody else during the solo portion of in-class quizzes.
+* For the group portion of the in-class quizzes, communication is restricted to within your group.
 * It is expected that you will provide through comments with your code, not only explaining how things work, but also providing appropriate attribution for code snippets or ideas that came from others. This commenting helps ensure that you learn from the process, and ensures that appropriate credit is given to the source of the ideas.
 
 ## University support & resources
