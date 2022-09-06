@@ -38,7 +38,7 @@ Please attend the section in which you are registered. The division on the timet
 
 ### Skill-building class periods (the first seven weeks)
 
-During these first seven weeks, the class period (lecture + lab) will start with a lecture portion consisting of a brief review of the reading material and a mix of whole-class and small-group activities. This will be followed by time to work on your assignment for that class period. These are individually submitted, but you are welcome to and encouraged to work with those around you. Each assignment will be due by 9 am the morning of the following class, and will be auto-collected through cocalc.  
+During these first seven weeks, the class period (lecture + lab) will start with a lecture portion consisting of a brief review of the reading material and a mix of whole-class and small-group activities. This will be followed by time to work on your assignment for that class period. These are individually submitted, but you are welcome to and encouraged to work with those around you. Each assignment will be due by 7 am the morning of the following class, and will be auto-collected through cocalc.  
 
 ### Five mini-projects (the final five+ weeks)
 
