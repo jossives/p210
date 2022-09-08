@@ -61,8 +61,8 @@ During a quiz you are allowed to refer to course notes, websites given in the no
 | Sep 7 (W) | Day 01. Course introduction, getting started in cocalc and the Linux/Unix command line | |
 | Sep 12 (M) | Day 02. Python basics, notebooks | |
 | Sep 14 (W) | Day 03. Numpy, the numerical python package | |
-| Sep 19 (M) | Day 04. Functions, conditionals, loops | Quiz 01 (Sep 19) |
-| Sep 21 (W) | Day 05. File Input and output in Python | |
+| Sep 19 (M) | Day 04. Functions, conditionals, loops | ~~Quiz 01 (Sep 19)~~ |
+| Sep 21 (W) | Day 05. File Input and output in Python | Quiz 01 (Sep 21) |
 | Sep 26 (M) | Day 06. User input, modules, recursion, first look at plotting & fitting | |
 | Sep 28 (W) | Day 07. for loops and lists | |
 | Oct 03 (M) | Day 08. Plotting data: Matplotlib | Quiz 02 (Oct 03) |
