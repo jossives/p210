@@ -52,6 +52,8 @@ Approximately every second week, there will be an in-class quiz consisting of a 
 * Each quiz score will be calculated using a weighted average, with 75% coming from the solo component and 25% coming from the group component. If your solo component score is higher than your group component score on a quiz, we will replace your group component score with your solo component score as to not penalize you for the lower group score.
 *	Your overall quiz average will be calculated using your best 4 of 5 quiz scores. This allows you to miss one or perform poorly on a quiz without penalty. 
 
+During a quiz you are allowed to refer to course notes, websites given in the notes, and previous assignments. You may search the internet for documentation. During the quiz you may not get assistance from or communicate with any other person beyond asking relevant questions to the instructor. 
+
 ## Tentative schedule
 
 | Date | Topics | Other notes |
