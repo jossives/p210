@@ -61,22 +61,23 @@ During a quiz you are allowed to refer to course notes, websites given in the no
 | Sep 7 (W) | Day 01. Course introduction, getting started in cocalc and the Linux/Unix command line | |
 | Sep 12 (M) | Day 02. Python basics, notebooks | |
 | Sep 14 (W) | Day 03. Numpy, the numerical python package | |
-| Sep 19 (M) | Day 04. Functions, conditionals, loops | ~~Quiz 01 (Sep 19)~~ |
-| Sep 21 (W) | Day 05. File Input and output in Python | Quiz 01 (Sep 21) |
-| Sep 26 (M) | Day 06. User input, modules, recursion, first look at plotting & fitting | |
-| Sep 28 (W) | Day 07. for loops and lists | |
-| Oct 03 (M) | Day 08. Plotting data: Matplotlib | Quiz 02 (Oct 03) |
-| Oct 05 (W) | Day 09. Numpy II |  |
+| Sep 19 (M) | Holiday | ~~Quiz 01 (Sep 19)~~ |
+| Sep 21 (W) | Day 04. Functions, conditionals, loops | ~~Quiz 01 (Sep 21)~~ |
+| Sep 26 (M) | Day 05. File Input and output in Python | Quiz 01 (Sep 26) |
+| Sep 28 (W) | Day 06. User input, modules, recursion, first look at plotting & fitting | |
+| Oct 03 (M) | Day 07. for loops and lists | |
+| Oct 05 (W) | Day 08. Plotting data: Matplotlib | Quiz 02 (~~Oct 03~~ Oct 05) |
 | Oct 10 (M) | Thanksgiving holiday | |
-| Oct 12 (W) | Day 10. Containers I: Lists and Dictionaries | |
-| Oct 17 (M) | Day 11. Containers II: Tuples and SciPy | |
-| Oct 19 (W) | Day 12. Bits and pieces (numbers on computers, debugger, etc) |  |
-| Oct 24 (M), Oct 26 (W) | Mini-project 01 (Due Oct 31, 9am) | Quiz 03 (Oct 24) |
-| Oct 31 (M), Nov 02 (W) | Mini-project 02 (Due Nov 07, 9am) | |
-| Nov 07 (M), Nov 14 (M), Nov 16 (W) |  Mini-project 03 (Due Nov 21, 9am)  | Quiz 04 (Nov 14), Reading break Nov 09-11 |
-| Nov 21 (M), Nov 23 (W)  | Mini-project 04 (Due Nov 28, 9am)  |   |
-| Nov 28 (M), Nov 30 (W) | Mini-project 05 (Due Dec 05, 9am)  | Quiz 05 (Nov 30) |
-| Dec 05 (M), Dec 07 (W) | Special Topics |  |
+| Oct 12 (W) | Day 09. Numpy II |  |
+| Oct 17 (M) | Day 10. Containers I: Lists and Dictionaries | |
+| Oct 19 (W) | Day 11. Containers II: Tuples and SciPy | |
+| Oct 24 (M) | Day 12. Bits and pieces (numbers on computers, debugger, etc) |  |
+| Oct 26 (W), Oct 31 (M) | Mini-project 01 (Due Nov 02, 9am) | Quiz 03 (~~Oct 24~~ Oct 26) |
+| Nov 02 (W), Nov 07 (M) | Mini-project 02 (Due Nov 14, 9am) | |
+| Nov 14 (M), Nov 16 (W), Nov 21 (M) |  Mini-project 03 (Due Nov 23, 9am)  | Quiz 04 (~~Nov 14~~ Nov 16), Reading break Nov 09-11 |
+| Nov 23 (W), Nov 28 (M)  | Mini-project 04 (Due Nov 30, 9am)  |   |
+| Nov 30 (W), Dec 05 (M), | Mini-project 05 (Due Dec 05, 9am)  | Quiz 05 (~~Nov 30~~ Dec 05) |
+| Dec 07 (W) | Special Topics |  |
 
 ## Grading scheme
 
