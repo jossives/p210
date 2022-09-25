@@ -66,9 +66,9 @@ During a quiz you are allowed to refer to course notes, websites given in the no
 | Sep 26 (M) | Day 05. File Input and output in Python | Quiz 01 (Sep 26) |
 | Sep 28 (W) | Day 06. User input, modules, recursion, first look at plotting & fitting | |
 | Oct 03 (M) | Day 07. for loops and lists | |
-| Oct 05 (W) | Day 08. Plotting data: Matplotlib | Quiz 02 (~~Oct 03~~ Oct 05) |
+| Oct 05 (W) | Day 08. Plotting data: Matplotlib | ~~Quiz 02 (Oct 03)~~m|
 | Oct 10 (M) | Thanksgiving holiday | |
-| Oct 12 (W) | Day 09. Numpy II |  |
+| Oct 12 (W) | Day 09. Numpy II | Quiz 02 (Oct 12) |
 | Oct 17 (M) | Day 10. Containers I: Lists and Dictionaries | |
 | Oct 19 (W) | Day 11. Containers II: Tuples and SciPy | |
 | Oct 24 (M) | Day 12. Bits and pieces (numbers on computers, debugger, etc) |  |
