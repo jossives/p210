@@ -104,6 +104,7 @@ Grading scheme flexibility
 * We will automatically drop your three lowest scores for in-class group activities.
 * We will drop your lowest quiz score.
 * For all other course content, you can request one-week extensions for up to 20% of that type of coursework (mini-projects, assignments, reading quizzes, etc) without needing to provide documentation or needing to apply for academic concessions.
+* (New: Sept 26) In addition to the above, we will weight your three lowest assignment marks at half of the weight of your other assignments.
 * For academic concessions beyond any of situations described above, appropriate documentation or correspondence from an advisor will be required. Please note that academic concessions may be granted for events falling under the categories of conflicting responsibilities, medical circumstances, or those that require compassionate grounds. Please see the UBC calendar entry on Academic Concession for further details.
 
 If you do miss a class:
