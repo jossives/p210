@@ -76,7 +76,7 @@ During a quiz you are allowed to refer to course notes, websites given in the no
 | Nov 02 (W), Nov 07 (M) | Mini-project 02 (Due Nov 14, 9am) | |
 | Nov 14 (M), Nov 16 (W), Nov 21 (M) |  Mini-project 03 (Due Nov 23, 9am)  | Quiz 04 (~~Nov 14~~ Nov 16), Reading break Nov 09-11 |
 | Nov 23 (W), Nov 28 (M)  | Mini-project 04 (Due Nov 30, 9am)  |   |
-| Nov 30 (W), Dec 05 (M), | Mini-project 05 (Due Dec 05, 9am)  | Quiz 05 (~~Nov 30~~ Dec 05) |
+| Nov 30 (W), Dec 05 (M), | Mini-project 05 (Due Dec 07, 9am)  | Quiz 05 (~~Nov 30~~ Dec 05) |
 | Dec 07 (W) | Special Topics |  |
 
 ## Grading scheme
