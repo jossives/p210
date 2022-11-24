@@ -113,6 +113,12 @@ If you do miss a class:
 * Attend office hours, which will always have the option to attend remotely via Zoom. 
 * Interact with the teaching team and your peers on Piazza
 
+Additional grading scheme updates (Oct 17)
+
+* Quizzes: On Dec 07 you can choose to sit the alternate version of any of the quizzes that actually took place (1, 2, 3 or 5, but without a group portion) and then keep the higher of your original or new mark for that quiz. I will also incorporate your group score from the original quiz into the score if that will be to your advantage. There will be a survey, opening on Dec 01 and closing on Dec 05 to communicate for which quiz you wish to take an alternate version.
+* Mini-project: Revise and resubmit for any one mini-project for regrading. Please just send me a message via the regular channels to let me know once you have revised your mini=project for regrading. The final due date for these will be Dec 14, 11:59pm.
+* Assignments: You can revise and resubmit up to 3 assignments. Please just send me a message via the regular channels to let me know once you have revised your assignment for regrading. The final due date for these will be the last day of classes, Dec 7 at 11:59pm.
+
 ## COVID safety in the classroom
 
 *This section will be updated before the start of the term to best reflect the current UBC policies.*
