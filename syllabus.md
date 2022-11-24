@@ -18,7 +18,7 @@ Please attend the section in which you are registered. The division on the timet
 
 **Co-reqs:** One of MATH 152, MATH 221, MATH 223
 
-**Office Hours:**	Tuesdays 4:30-5:30pm, Thursdays 1:00-2:00pm, and Fridays 2:30-3:30pm (on Zoom, see link on Canvas)
+**Office Hours:**	Tuesdays 4:30-5:30pm, Thursdays 12:00-1:00pm, and Fridays 2:30-3:30pm (on Zoom, see link on Canvas)
 
 **Textbook:** There is no required textbook. Pre-reading notes will be provided. There are plenty of resources on the internet, but it is not always easy to locate what’s relevant and useful. There is a book available that uses a similar approach and is recommended if you want another source: A Student’s Guide to Python for Physical Modeling. by Kinder and Nelson. There are three versions: “the original”, an “Updated Edition” and the latest “Second Edition.” The newest (2nd edition) is probably the best choice.
 
