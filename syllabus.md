@@ -24,36 +24,29 @@ Please attend the section in which you are registered. The division on the timet
 
 **Online Tools:**
 
-- **UBC Jupyter Open:** Course materials will be distributed through UBC's JupyterHub known as Jupyter Open (https://open.jupyter.ubc.ca/) 
-- **Cocalc:**  Most of our work will be done on an online computing platform called cocalc. You will need to set up an account at cocalc.com, using an email address. Please see the additional note below. It is possible to use a free account to complete the course, but we recommended improving your overall experience with the palyform by paying the Cocalc course fee (US$14), which allows your work to run on faster servers and will generally provide a better experience.
-- **Canvas:** We will make some use of Canvas for course announcements, distributing materials, administering some quizzes, etc.
+- **UBC Jupyter Open:** Course materials will be distributed primarily through UBC Jupyter Open (https://open.jupyter.ubc.ca/), which is the same computing environment currently being used in PHYS 119. 
+- **Collaborative group-work on CoCalc:** A good portion of in-class time will be spent doing collaborative group-work in realtime collaborative Jupyter notebooks on CoCalc, which is Sagemath's online computing platform. Free accounts on this platform provide full access to what is needed for this group-work with somewhat limited computing resources. To set up an account at on https://cocalc.com/ you will need to use an email address. Please see the additional note below regarding your private information and CoCalc. 
+- **Canvas:** We will make some use of Canvas for course announcements, limited distribution of materials, coursework submission and quizzes. Importantly, all course deadlines will be communicated via assignment and quiz due dates on Canvas.
 - **iClickerCloud:** In-class polling.
 - **Piazza:** Online discussion forums.
 
-**Your private information and Cocalc:** Cocalc is stored on servers outside Canada. When you access this site, you are transferred to these servers. UBC cannot guarantee security of your private information on servers outside of Canada. Please exercise caution regarding the use of your personal information in this context. If you have concerns, you may wish to use a pseudonym to protect your privacy. Please feel free to contact us at UBC (LT.hub@ubc.ca) or CoCalc's support team (help@sagemath.com) if you have any questions about your privacy. If you an email address that we cannot associate with your student profile, please tell us what that address is so that your work can be attributed to you correctly.
+**Your private information and CoCalc:** CoCalc runs on servers outside of Canada, where UBC cannot guarantee the security of your private information. Please exercise caution regarding the use of your personal information in this context. You may wish to use a pseudonym and/or an email not associated with your UBC student profile when you create your CoCalc account. Please contact us at UBC (LT.hub@ubc.ca) or CoCalc's support team (help@sagemath.com) if you have any questions about your privacy. 
 
 ## Class format: 
 
-* **Skill-building classes (the first seven weeks):** We will spend the first seven weeks during lecture/lab building up your computation skills in a regular cycle of pre-class preparation activities, in-class group-work (polling questions and worksheets) and individual lab work (assignments). 
-* **Mini-projects (the final five weeks):** We will then move onto using class time in the final five weeks to work on five weekly mini-projects.
+The course will be split into four modules, each of which will culminate in a project. In each module there will be an initial series of lesson days and then two project days, where the first project day will also typically be used to administer a module quiz.
 
-### Skill-building class periods (the first seven weeks)
+### Lesson days
 
-During these first seven weeks, the class period (lecture + lab) will start with a lecture portion consisting of a brief review of the reading material and a mix of whole-class and small-group activities. This will be followed by time to work on your assignment for that class period. These are individually submitted, but you are welcome to and encouraged to work with those around you. Each assignment will be due by 7 am the morning of the following class, and will be auto-collected through cocalc.  
+During lesson days, the class period (lecture + lab) will start with a brief interactive lecture consisting of a review of the most common challenges (shared by you) from the pre-class reading assignment and then moving into some interactive polling questions. The remainder of the class period will be dedicated to small-group activities ("group worksheets"), with some additional time provided to gain additional practice on "solo worksheets", which will be due before the next class period for participation credit. 
 
-### Five mini-projects (the final five+ weeks)
+### Project days
 
-Each of the five weekly mini-projects will consist of writing code to answer a question or solve a problem and working on these mini-projects will be the main thing you are doing during class time. Each mini-project will leverage the knowledge learned so far, but new concepts will also be introduced as necessary. You will typically have one week to complete a mini-project.
+Each of the four modules will culminate in a small project, where you will use your computational physics skills to perform an investigation and communicate your findings. You will typically have one week to complete a project, with class time being dedicated to project work and a module quiz based on the content from that module. The lesson days leading up to the project will build up the computational (and sometimes physics) skills necessary to complete the project. 
 
-### Fortnightly quizzes
+### Quizzes
 
-Approximately every second week, there will be an in-class quiz consisting of a 30-minute solo component and a 15-minute group component. The group component will be largely the same as the solo component and we include the group component to provide an additional opporunity to learn content alongside your peers and receive some immediate feedback on your thinking as it relates to the quiz content.
-
-* These will emphasize material from the most recent assignments/projects, but will necessarily involve all course content up to that point because content in this course is always building upon itself. 
-* Each quiz score will be calculated using a weighted average, with 75% coming from the solo component and 25% coming from the group component. If your solo component score is higher than your group component score on a quiz, we will replace your group component score with your solo component score as to not penalize you for the lower group score.
-*	Your overall quiz average will be calculated using your best 4 of 5 quiz scores. This allows you to miss one or perform poorly on a quiz without penalty. 
-
-During a quiz you are allowed to refer to course notes, websites given in the notes, and previous assignments. You may search the internet for documentation. During the quiz you may not get assistance from or communicate with any other person beyond asking relevant questions to the instructor. 
+We will provide further details related to the format of the quizzes as we approach the date of the first quiz.
 
 ## Tentative schedule
 
