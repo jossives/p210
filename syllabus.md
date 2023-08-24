@@ -1,8 +1,8 @@
-# PHYS 210 - Introduction to Computational Physics (Fall 2022)
+# PHYS 210 - Introduction to Computational Physics (Fall 2023)
  
-**Instructor:** Joss Ives (joss at phas dot ubc dot ca)
+**Instructor:** Joss Ives (joss.ives at ubc dot ca)
 
-**TAs:**	Dinel Anthony, Daniel Duque, Aaron Kraft, Ryan Quinn, Mercedes Thompson, 
+**TAs:**	 Allen Zhao, Anna Nikou, Enzo Picinini, Jaden Majid, Ksenia Khoroshun, Michael Sekatchev and Ryan Quinn
 
 **Location:** 	Hebb B112
 
@@ -12,18 +12,19 @@
 | Lecture | Mon/Wed 12:30-13:00 | Mon/Wed 15:30-16:00
 | Lab | Mon/Wed 13:00-14:50 | Mon/Wed 16:00-17:50 |
 
-Please attend the section in which you are registered. The division on the timetable between the  Lecture and Lab sections is mostly for bookkeeping. See class format, below.
+Please attend the section in which you are registered. The division on the timetable between the Lecture and Lab portions of the course is primarily for bookkeeping. See class format, below.
 
 **Pre-reqs:** One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001.
 
 **Co-reqs:** One of MATH 152, MATH 221, MATH 223
 
-**Office Hours:**	Tuesdays 4:30-5:30pm, Thursdays 12:00-1:00pm, and Fridays 2:30-3:30pm (on Zoom, see link on Canvas)
+**Office Hours:**	TBD
 
-**Textbook:** There is no required textbook. Pre-reading notes will be provided. There are plenty of resources on the internet, but it is not always easy to locate what’s relevant and useful. There is a book available that uses a similar approach and is recommended if you want another source: A Student’s Guide to Python for Physical Modeling. by Kinder and Nelson. There are three versions: “the original”, an “Updated Edition” and the latest “Second Edition.” The newest (2nd edition) is probably the best choice.
+**Textbook:** There is no required textbook. Pre-reading notes will be provided. There are plenty of resources on the internet, but it is not always easy to locate what’s relevant and useful. There is a book available that uses a similar approach and is recommended if you want another source: A Student’s Guide to Python for Physical Modeling by Kinder and Nelson. There are three versions: “the original”, an “Updated Edition” and the latest “Second Edition.” The newest (2nd edition) is probably the best choice. An excellent free textbook is [Computational Physics with Python](https://freecomputerbooks.com/Computational-Physics-with-Python-by-Eric-Ayars.html) by Eric Ayars. 
 
 **Online Tools:**
 
+- **UBC Jupyter Open:** Course materials will be distributed through UBC's JupyterHub known as Jupyter Open (https://open.jupyter.ubc.ca/) 
 - **Cocalc:**  Most of our work will be done on an online computing platform called cocalc. You will need to set up an account at cocalc.com, using an email address. Please see the additional note below. It is possible to use a free account to complete the course, but we recommended improving your overall experience with the palyform by paying the Cocalc course fee (US$14), which allows your work to run on faster servers and will generally provide a better experience.
 - **Canvas:** We will make some use of Canvas for course announcements, distributing materials, administering some quizzes, etc.
 - **iClickerCloud:** In-class polling.
