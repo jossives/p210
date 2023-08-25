@@ -1,4 +1,4 @@
-# PHYS 210 - Introduction to Computational Physics (Fall 2023)
+# PHYS 210 - INTRODUCTION TO COMPUTATIONAL PHYSICS (FALL 2023) 
  
 **Instructor:** Joss Ives (joss.ives at ubc dot ca)
 
@@ -32,7 +32,7 @@ Please attend the section in which you are registered. The division on the timet
 
 **Your private information and CoCalc:** CoCalc runs on servers outside of Canada, where UBC cannot guarantee the security of your private information. Please exercise caution regarding the use of your personal information in this context. You may wish to use a pseudonym and/or an email not associated with your UBC student profile when you create your CoCalc account. Please contact us at UBC (LT.hub@ubc.ca) or CoCalc's support team (help@sagemath.com) if you have any questions about your privacy. 
 
-## Class format: 
+## CLASS FORMAT
 
 The course will be split into four modules, each of which will culminate in a project. In each module there will be an initial series of lesson days and then two project days, where the first project day will also typically be used to administer a module quiz.
 
@@ -48,93 +48,104 @@ Each of the four modules will culminate in a small project, where you will use y
 
 We will provide further details related to the format of the quizzes as we approach the date of the first quiz.
 
-## Tentative schedule
+## TENTATIVE SCHEDULE
 
 | Date | Topics | Other notes |
 | --- | --- | --- |
-| Sep 7 (W) | Day 01. Course introduction, getting started in cocalc and the Linux/Unix command line | |
-| Sep 12 (M) | Day 02. Python basics, notebooks | |
-| Sep 14 (W) | Day 03. Numpy, the numerical python package | |
-| Sep 19 (M) | Holiday | ~~Quiz 01 (Sep 19)~~ |
-| Sep 21 (W) | Day 04. Functions, conditionals, loops | ~~Quiz 01 (Sep 21)~~ |
-| Sep 26 (M) | Day 05. File Input and output in Python | Quiz 01 (Sep 26) |
-| Sep 28 (W) | Day 06. User input, modules, recursion, first look at plotting & fitting | |
-| Oct 03 (M) | Day 07. for loops and lists | |
-| Oct 05 (W) | Day 08. Plotting data: Matplotlib | ~~Quiz 02 (Oct 03)~~ |
-| Oct 10 (M) | Thanksgiving holiday | |
-| Oct 12 (W) | Day 09. Numpy II | Quiz 02 (Oct 12) |
-| Oct 17 (M) | Day 10. Containers I: Lists and Dictionaries | |
-| Oct 19 (W) | Day 11. Containers II: Tuples and SciPy | |
-| Oct 24 (M) | Day 12. Bits and pieces (numbers on computers, debugger, etc) |  |
-| Oct 26 (W), Oct 31 (M) | Mini-project 01 (Due Nov 02, 9am) | Quiz 03 (~~Oct 24~~ Oct 26) |
-| Nov 02 (W), Nov 07 (M) | Mini-project 02 (Due Nov 14, 9am) | |
-| Nov 14 (M), Nov 16 (W), Nov 21 (M) |  Mini-project 03 (Due Nov 23, 9am)  | Quiz 04 (~~Nov 14~~ Nov 16), Reading break Nov 09-11 |
-| Nov 23 (W), Nov 28 (M)  | Mini-project 04 (Due Nov 30, 9am)  |   |
-| Nov 30 (W), Dec 05 (M), | Mini-project 05 (Due Dec 07, 9am)  | Quiz 05 (Nov 30) |
-| Dec 07 (W) | Special Topics | Quiz retake (Dec 07) |
+| Sep 04 (W) | Day 01. Introduction to the course, python and Jupyter notebooks | |
+| Sep 11 (M) | Day 02. User input, text formatting | |
+| Sep 13 (W) | Day 03. Lists | |
+| Sep 18 (M) | Day 04. Plotting data with Matplotlib |  |
+| Sep 20 (W) | Day 05. Loops and conditionals |  |
+| Sep 25 (M) | Day 06. Advanced techniques with lists, plotting, loops and conditionals | Draft of homework due for in-class feedback |
+| Sep 27 (W) | Day 07. Project 1, Day 1 (Due Oct 11, 9am) | Quiz 1; Homework 1 due, 9am |
+| Oct 02 (M) | Univserity closed to recognize National Day for Truth and Reconciliation | |
+| Oct 04 (W) | Day 08. Project 1, Day 2 (Due Oct 11, 9am) | |
+| Oct 09 (M) | Thanksgiving holiday | |
+| Oct 11 (W) | Day 09. Functions | |
+| Oct 12 (Th) | Day 10. Numpy: arrays, random numbers and more | "Make-up Monday" (just roll with it) |
+| Oct 16 (M) | Day 11. Advanced array techniques | |
+| Oct 18 (W) | Day 12. Containers: dictionaries, tuples, etc | Homework 2 due, 9am  |
+| Oct 23 (M) | Day 13. Project 2, Day 1 (Due Oct 30, 9am) | Quiz 2 |
+| Oct 25 (W) | Day 14. Project 2, Day 2 (Due Oct 30, 9am) | |
+| Oct 30 (M) | Day 15. Monte-Carlo methods 1 | |
+| Nov 01 (W) | Day 16. Monte-Carlo methods 2 | |
+| Nov 06 (M) | Day 17. File input and output; fitting | Homework 3 due, 9am |
+| Nov 08 (W) | Day 18. Project 3, Day 1 (Due Nov 22, 9am) | Quiz 3 |
+| Nov 13 - 15 | Midterm break | |
+| Nov 20 (M) | Day 19. Project 3, Day 2 (Due Nov 22, 9am) | |
+| Nov 22 (W) | Day 20. Animations | |
+| Nov 27 (M) | Day 21. Advanced topics needed for Project 4 | Homework 4 due, 9am |
+| Nov 29 (W) | Day 22. Project 4, Day 1 (Due Dec 06, 9am) | Quiz 4 |
+| Dec 04 (M) | Day 23. Project 4, Day 2 (Due Dec 06, 9am) | |
+| Dec 06 (W) | Day 24. Quiz retakes | |
 
-## Grading scheme
 
-Part A: 65%
 
-* Reading quizzes: 5%
-* In-class group-work (worksheets and peer assessments): 10%
-* Assignments (~12): 20 %
-* Mini-projects (5): 30 %
+## GRADING SCHEME
 
-Part B: 35%
+Part A: 75%
 
-* In-class quizzes (5): 35%.
+* Pre-class reading assignment (~15, participation): 5%
+* Group worksheets (~15, participation): 5%
+* Solo worksheets (~15, participation): 5%
+* Group quizzes (4): 5%
+* Homework assignments (4, graded): 20%
+* Projects (4, graded): 35%
+
+Part B: 25%
+
+* Solo quizzes (4): 25%.
 
 Notes:
 
 * You must pass both part A and part B to pass the course. If you receive a score below 50% on one part, the weighting of the other part will drop to 0, resulting in a failing grade.
-* The marking of your work will be done by a combination of: 1) automated tools 2) TA-power and 3) peer evaluation. If you have any concerns regarding any of your marked work, including grading mistakes on our part, please let me know by email within one week of receiving the marked work.
-* You will be required to evaluate some of the work of your classmates.
 
-Grading scheme flexibility
+Grading scheme and deadline flexibility
 
-* Clicker questions will not count for marks.
-* We will automatically drop your three lowest scores for in-class group activities.
-* We will drop your lowest quiz score.
-* For all other course content, you can request one-week extensions for up to 20% of that type of coursework (mini-projects, assignments, reading quizzes, etc) without needing to provide documentation or needing to apply for academic concessions.
-* (New: Sept 26) In addition to the above, we will weight your three lowest assignment marks at half of the weight of your other assignments.
+* iClicker polling questions will not count for marks.
+* Pre-class reading assignments and solo worksheets will be graded for completion automatically by Canvas. We will routinely spot check this work and may ask you to resubmit work that is insufficiently complete or thorough.
+* Group worksheets will be assessed via in-class checkpoint questions from the teaching team. Each person in the group will be asked a different question and will be provided as many chances as needed to give a correct or complete answer. We will drop your three lowest scores for these group worksheets. If you are absent from an in-person class, you will have the opportunity to use office hours to earn credit for answering relevant checkpoint questions for up to three group worksheets.
+* We will drop your lowest solo quiz score and your lowest group quiz score. In the rare situation where you score higher on the solo quiz than on the group quiz, we will replace your group quiz score with your solo quiz score. Additionally, on the last day of class you will have the opportunity to sit the alternate version of one of the quizzes and keep the higher of the original or new mark for that quiz. 
+* For course content other than quizzes, you can request one-week extensions for up to 20% of that type of coursework (projects, homework assignments, worksheets, etc) without needing to provide documentation or needing to apply for academic concessions. The extension request form can be found on Canvas. 
+* For course content other than quizzes, you can revise and resubmit for up to 20% of that type of coursework. Your score for that item will be the average of the original and resubmitted scores. Resbmission will be submitted through Canvas. 
 * For academic concessions beyond any of situations described above, appropriate documentation or correspondence from an advisor will be required. Please note that academic concessions may be granted for events falling under the categories of conflicting responsibilities, medical circumstances, or those that require compassionate grounds. Please see the UBC calendar entry on Academic Concession for further details.
 
 If you do miss a class:
 
-* Consult the appropriate resources on Canvas and cocalc. We will post lecture slides and notes for each class period on Canvas.
+* Consult the appropriate resources on Canvas and Open Jupyter. Lecture slides and any additional notes will be posted to Canvas.
 * Attend office hours, which will always have the option to attend remotely via Zoom. 
-* Interact with the teaching team and your peers on Piazza
+* Engage with the teaching team and your peers on Piazza
 
-Additional grading scheme updates (Oct 17)
+## COMMUNICABLE DISEASE SAFETY IN THE CLASSROOM
 
-* Quizzes: On Dec 07 you can choose to sit the alternate version of any of the quizzes that actually took place (1, 2, 3 or 5, but without a group portion) and then keep the higher of your original or new mark for that quiz. I will also incorporate your group score from the original quiz into the score if that will be to your advantage. There will be a survey, opening on Dec 01 and closing on Dec 05 to communicate for which quiz you wish to take an alternate version.
-* Mini-project: Revise and resubmit for any one mini-project for regrading. Please just send me a message via the regular channels to let me know once you have revised your mini=project for regrading. The final due date for these will be Dec 14, 11:59pm.
-* Assignments: You can revise and resubmit up to 3 assignments. Please just send me a message via the regular channels to let me know once you have revised your assignment for regrading. The final due date for these will be the last day of classes, Dec 7 at 11:59pm.
+If you are sick, please stay home so that you can rest and recover, and to prevent others from getting sick. The grading and deadline policies in this course are flexible enough to allow you to easily miss a handful of days in the course without any penalty to your course grade.
 
-## COVID safety in the classroom
+## ACADEMIC INTEGRITY AND COLLABORATION
 
-*This section will be updated before the start of the term to best reflect the current UBC policies.*
-
-## Academic integrity and Collaboration
-
-The academic enterprise is founded on honesty, civility, and integrity. As members of this enterprise, all students are expected to know, understand, and follow the codes of conduct regarding academic integrity. At the most basic level, this means submitting only original work done by you and acknowledging all sources of information or ideas and attributing them to others as required. This also means you should not cheat, copy, or mislead others about what is *your* work. Violations of academic integrity (i.e., misconduct) lead to the breakdown of the academic enterprise, and therefore serious consequences arise and harsh sanctions are imposed. For example, incidences of plagiarism or cheating may result in a mark of zero on the assignment or qyuz and more serious consequences may apply if the matter is referred to the President’s Advisory Committee on Student Discipline. Careful records are kept in order to monitor and prevent recurrences.
-
-A more detailed description of academic integrity, including the University’s policies and procedures, may be found in theAcademic Calendar at
+The academic enterprise is founded on honesty, civility, and integrity. As members of this enterprise, all students are expected to know, understand, and follow the codes of conduct regarding academic integrity. At the most basic level, this means submitting only original work done by you and acknowledging all sources of information or ideas and attributing them to others as required. This also means you should not cheat, copy, or mislead others about what is *your* work. Incidences of plagiarism or cheating may result in a mark of zero for that work and more serious consequences may apply if the matter is deemed as needing to be referred to the Dean's office, where careful records are kept in order to monitor and prevent recurrences. A more detailed description of academic integrity, including the University’s policies and procedures, may be found in theAcademic Calendar at
 http://calendar.ubc.ca/vancouver/index.cfm?tree=3,54,111,0.
 
-**Specifically for PHYS 210:** You are encouraged to talk to each other, to the teaching team, and to learn from resources such as books and the internet. For in-class group activities, we expect you to be a full participant in your group's collaboration and you should ensure you understand the group’s work fully. For individual assignments and projects, it is quite reasonable to ask friends, classmates, or use internet searches for ideas on how to attack a problem ("What function did you use to generate the random numbers?") or for help in debugging something that’s not working as you expect. However, it is not acceptable to gather with a friend or two to work through an assignment to produce a common version. You need to ensure that the work you turn in reflects your knowledge and your application of that knowledge.
+### Policies regarding ChatGPT and other Generative AI
 
-* As long as you are providing attributions, it is perfectly reasonable to use a line or two of code from something you find on the internet. However, it is not acceptable to use large blocks of code that you did not write yourself.
-* For the solo portion of the in-class quizzes, all work is strictly individual. You must not communicate with anybody else during the solo portion of in-class quizzes.
-* For the group portion of the in-class quizzes, communication is restricted to within your group.
-* It is expected that you will provide through comments with your code, not only explaining how things work, but also providing appropriate attribution for code snippets or ideas that came from others. This commenting helps ensure that you learn from the process, and ensures that appropriate credit is given to the source of the ideas.
+In this course we seek to embrace and teach the responsible use of ChatGPT and other forms of generative AI. These are extremely valuable tools in the toolkits of those engaging in computation, whether as students or practicing professionals. We will spend time in this course prompting these tools and learning to test and debug the code they provide. However, unless otherwise stated, it is expected that you provide appropriate attribution for any code you submit that was produced by generative AI, no matter how much you subsequently modify it. 
 
-## University support & resources
+### Additional policies for PHYS 210
+
+In the broadest terms, we expect you to have made significant intellectual contributions related to any work that you submit. In the specific case of generative AI, multi-step prompting requiring careful assessment of its output and then refinement from further prompting does qualify as significant intellectual contribution since it demonstrates application of the skills and knowledge being developed in this course. We will never assign work to you with the intention that it could be completed by finding a resource with an already complete solution or by a simple generative AI prompt. It is better to check in with us if you are unsure about the level of intellectual contribution that you have made in something that you intend to submit rather than to later find yourself engaged in academic misconduct procedures.
+
+You are encouraged to discuss ideas with and seek support from peers, teaching team members, internet resources and generative AI, but your submitted work should reflect YOUR knowledge and YOUR applications of that knowledge. 
+
+* **Attribution:** As long as you are providing attribution, it is perfectly reasonable to use SMALL chunks of code provided by a peer or internet resource. In the case of generative AI, you may use and provide attribution for larger chunks of code as long as you are adhering to the expectation that you made significant intellectual contributions as outlined above.
+* **Formal group work:** You are encouraged to talk to each other, to the teaching team, and to learn from any and all resources as your disposal. For in-class group activities, we expect you to fully participate in your group's collaborative activities and it is your responsibility to ensure you understand your group's work fully. 
+* **Individual work:** It is not acceptable to gather with a friend or two to work through a project or homework assignment to produce a common version nor is it acceptable to submit a modified version of somebody else's work as your own.
+* **Solo quizzes:** For the solo portion of the in-class quizzes, all work is strictly individual. You must not communicate with anybody else during the solo portion of in-class quizzes.
+* **Group quizzes:** For the group portion of the in-class quizzes, communication is restricted to within your group.
+
+## UNIVERSITY SUPPORT AND RESOURCES
 
 UBC provides resources to support student learning and to maintain healthy lifestyles but recognizes that sometimes crises arise and so there are additional resources to access including those for survivors of sexual violence. UBC values respect for the person and ideas of all members of the academic community. Harassment and discrimination are not tolerated nor is suppression of academic freedom. UBC provides appropriate accommodation for students with disabilities and for religious and cultural observances. UBC values academic honesty and students are expected to acknowledge the ideas generated by others and to uphold the highest academic standards in all of their actions. Details of the policies and how to access support are available: https://senate.ubc.ca/policies-resources-support-student-success
 
-## Acknowledgement
+## ACKNOWLEDGEMENTS
 
-This syllabus represents a revision and update of the 2021 Physics 210 syllabus, which was produced by Prof Carl Michal.
+The 2022 version of this syllabus was a revision and update of Prof Carl Michal's 2021 Physics 210 syllabus, and has subsequently been revised further.
